@@ -1,0 +1,3 @@
+target_bin/
+*.qcow2
+*.raw
