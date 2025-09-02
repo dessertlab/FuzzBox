@@ -1,0 +1,4 @@
+Seed String: seed
+Input String: Œšú
+Time Elapsed: 503.589000 seconds
+Interactions Count: 25

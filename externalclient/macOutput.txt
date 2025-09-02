@@ -1,0 +1,1698 @@
+
+/ # nvram_set: wl1_country_rev = ""
+sem_lock: Already initialized!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_set: wps_enable = "0"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+[   22.186379] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+nvram_get_buf: lan_ifname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ifname
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "br0"
+start_lan: setting up the bridge br0
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.237449] firmadyne: sys_socket[PID: 128 (brctl)]: family:2, type:2, protocol:0
+[   22.328762] firmadyne: sys_socket[PID: 131 (brctl)]: family:2, type:2, protocol:0
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+[   22.354647] cfg80211: Calling CRDA to update world regulatory domain
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+hotplug net INTERFACE=br0 ACTION=add
+[   22.423788] firmadyne: sys_socket[PID: 134 (brctl)]: family:2, type:2, protocol:0
+nvram_get_buf: ipv6_service
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 ipv6_service
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "disabled"
+nvram_get_buf: emf_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 emf_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lan_ipaddr
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ipaddr
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "192.168.1.1"
+nvram_get_buf: lan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "vlan0 eth1 eth2"
+[   22.444639] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+vlan0: cmd=14: No such device
+_ifconfig: name=vlan0 flags=1043 IFUP addr=(null) netmask=(null)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.538141] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+vlan0: No such device
+[   22.617477] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+eth1: cmd=14: Operation not supported
+_ifconfig: name=eth1 flags=1043 IFUP addr=(null) netmask=(null)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.623199] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+[   22.634901] 8021q: adding VLAN 0 to HW filter on device eth1
+[   22.639193] e1000: eth1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+start_lan: setting MAC of br0 bridge to 52:54:00:12:34:57
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl0_mode_x
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/wl0_mode_x! Set default value to ""
+[   22.698434] firmadyne: sys_socket[PID: 143 (brctl)]: family:2, type:2, protocol:0
+[   22.699564] firmadyne: sys_socket[PID: 143 (brctl)]: family:10, type:1, protocol:0
+[   22.702339] firmadyne: br_add_if[PID: 143 (brctl)]: br:br0 dev:eth1
+[   22.708318] device eth1 entered promiscuous mode
+nvram_get_buf: emf_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 emf_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.722343] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+eth2: cmd=14: Operation not supported
+_ifconfig: name=eth2 flags=1043 IFUP addr=(null) netmask=(null)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.727906] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+[   22.730187] 8021q: adding VLAN 0 to HW filter on device eth2
+[   22.731758] e1000: eth2 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl1_mode_x
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/wl1_mode_x! Set default value to ""
+[   22.774705] firmadyne: sys_socket[PID: 144 (brctl)]: family:2, type:2, protocol:0
+[   22.775486] firmadyne: sys_socket[PID: 144 (brctl)]: family:10, type:1, protocol:0
+[   22.776511] firmadyne: br_add_if[PID: 144 (brctl)]: br:br0 dev:eth2
+[   22.777652] device eth2 entered promiscuous mode
+nvram_get_buf: emf_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 emf_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: lan_hwaddr = "52:54:00:12:34:57"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+[   22.789339] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+nvram_get_buf: wl_wme
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 6 wl_wme
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "on"
+nvram_get_buf: lan_proto
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 lan_proto
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "static"
+nvram_get_buf: lan_ipaddr
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ipaddr
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "192.168.1.1"
+nvram_get_buf: lan_netmask
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_netmask
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "255.255.255.0"
+_ifconfig: name=br0 flags=1043 IFUP addr=192.168.1.1 netmask=255.255.255.0
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.808319] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+[   22.810390] br0: port 2(eth2) entered forwarding state
+[   22.811027] br0: port 2(eth2) entered forwarding state
+[   22.811360] br0: port 1(eth1) entered forwarding state
+[   22.811592] br0: port 1(eth1) entered forwarding state
+[   22.814283] firmadyne: __inet_insert_ifa[PID: 1 (init)]: device:br0 ifa:0x0101a8c0
+[   22.826605] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+_ifconfig: name=lo flags=1043 IFUP addr=127.0.0.1 netmask=255.0.0.0
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.831144] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:3, protocol:255
+[   22.831902] firmadyne: __inet_insert_ifa[PID: 1 (init)]: device:lo ifa:0x0100007f
+[   22.836634] firmadyne: __inet_insert_ifa[PID: 1 (init)]: device:lo ifa:0x0100007f
+route_manip: cmd=ADD name=lo addr=127.0.0.0 netmask=255.0.0.0 gateway=0.0.0.0 metric=0
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   22.841577] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+nvram_get_buf: ipv6_service
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 ipv6_service
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "disabled"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_buf: wan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 wan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth0"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: ipv6_service
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 ipv6_service
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "disabled"
+nvram_get_buf: emf_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 emf_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lan_proto
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 lan_proto
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "static"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+lan_up(br0)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[1 init:start_dnsmasq +23] begin
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[1 init:stop_dnsmasq +23] begin
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[1 init:stop_dnsmasq +23] end
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lan_ifname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ifname
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "br0"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: lan_ipaddr
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ipaddr
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "192.168.1.1"
+nvram_get_buf: computer_name
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 13 computer_name
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: productid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 productid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "RT-N53"
+nvram_get_buf: odmpid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 6 odmpid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: lan_domain
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_domain
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: lan_hostname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/lan_hostname! Set default value to ""
+nvram_get_buf: ipv6_service
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 ipv6_service
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "disabled"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: lan_dns
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 7 lan_dns
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: lan_gateway
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_gateway
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0.0.0.0"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: lan_gateway
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_gateway
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0.0.0.0"
+route_manip: cmd=ADD name=br0 addr=0.0.0.0 netmask=0.0.0.0 gateway=0.0.0.0 metric=0
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   23.033039] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+update_lan_state(lan_, 2, 0)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set_int: lan_state_t = 2
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_set_int: lan_sbstate_t = 0
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: lan_ipaddr
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ipaddr
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "192.168.1.1"
+nvram_get_buf: lan_netmask
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_netmask
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "255.255.255.0"
+starting ntp...
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: nat_redirect_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 19 nat_redirect_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "1"
+nvram_get_int: nat_state
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/nat_state!
+nvram_set_int: nat_state = 1
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+stop_nat_rules: apply the redirect_rules!
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   23.324486] firmadyne: sys_socket[PID: 1 (init)]: family:1, type:1, protocol:0
+[   23.412654] firmadyne: sys_socket[PID: 145 (ntp)]: family:1, type:1, protocol:0
+[   23.415893] firmadyne: sys_socket[PID: 146 (networkmap)]: family:17, type:1, protocol:0
+[   23.431785] firmadyne: sys_setsockopt[PID: 146 (networkmap)]: fd:4, level:65535, optname:4102
+[   23.433781] firmadyne: sys_socket[PID: 146 (networkmap)]: family:2, type:1, protocol:17
+[   23.434230] firmadyne: sys_setsockopt[PID: 146 (networkmap)]: fd:5, level:65535, optname:4
+[   23.442162] firmadyne: sys_setsockopt[PID: 146 (networkmap)]: fd:5, level:65535, optname:25
+[   23.442914] firmadyne: sys_setsockopt[PID: 146 (networkmap)]: fd:5, level:65535, optname:32
+[   23.443435] firmadyne: inet_bind[PID: 146 (networkmap)]: proto:SOCK_DGRAM, port:9999
+[   23.519564] firmadyne: sys_socket[PID: 147 (iptables-restor)]: family:2, type:3, protocol:255
+[   23.579246] firmadyne: sys_socket[PID: 148 (ntpclient)]: family:2, type:1, protocol:17
+[   23.581217] firmadyne: inet_bind[PID: 148 (ntpclient)]: proto:SOCK_DGRAM, port:0
+[   23.620027] firmadyne: sys_socket[PID: 148 (ntpclient)]: family:2, type:1, protocol:17
+[   23.651905] firmadyne: sys_socket[PID: 148 (ntpclient)]: family:2, type:1, protocol:17
+[   23.653002] firmadyne: sys_socket[PID: 148 (ntpclient)]: family:2, type:1, protocol:17
+[   23.702474] firmadyne: sys_socket[PID: 147 (iptables-restor)]: family:2, type:3, protocol:255
+nvram_get_buf: wanduck_down
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/wanduck_down! Set default value to ""
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_set: reload_svc_radio = "1"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+start_lan 1773
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+start_services 3251
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: telnetd_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 14 telnetd_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: Ate_telnet
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/Ate_telnet! Set default value to ""
+[   23.963690] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:2, protocol:6
+[   23.964577] firmadyne: sys_setsockopt[PID: 154 (wanduck)]: fd:4, level:65535, optname:4
+[   23.965149] firmadyne: inet_bind[PID: 154 (wanduck)]: proto:SOCK_STREAM, port:18017
+[   23.969359] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:17
+[   23.969720] firmadyne: sys_setsockopt[PID: 154 (wanduck)]: fd:5, level:65535, optname:4
+[   23.969994] firmadyne: inet_bind[PID: 154 (wanduck)]: proto:SOCK_DGRAM, port:18018
+# wanduck: Got LAN(0) information:
+[   24.025761] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+[   24.048924] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+
+# Enable direct rule
+[   24.065965] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+[   24.073269] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+[   24.138212] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.140206] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.141164] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.141619] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.141989] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.143808] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.306213] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.307751] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+[   24.308258] firmadyne: sys_socket[PID: 156 (eapd)]: family:2, type:1, protocol:0
+nvram_get_int: wps_band
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/wps_band!
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl0_radio
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/wl0_radio! Set default value to ""
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_set: wps_enable = "0"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: wps_restart
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/wps_restart! Set default value to ""
+nvram_set: wps_restart = "0"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_set: wps_proc_status = "0"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_set: wps_sta_pin = "00000000"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: w_Setting
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 w_Setting
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: lan_wps_oob = "enabled"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+[   24.498097] nas calls setitimer() with new_value NULL pointer. Misfeature support will be removed
+nvram_get_buf: wps_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wps_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: wl_wps_mode = "disabled"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+[   24.507520] firmadyne: sys_socket[PID: 158 (nas)]: family:2, type:1, protocol:17
+[   24.508080] firmadyne: sys_setsockopt[PID: 158 (nas)]: fd:4, level:65535, optname:4
+[   24.508537] firmadyne: inet_bind[PID: 158 (nas)]: proto:SOCK_DGRAM, port:38032
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+[1 init:start_dnsmasq +25] begin
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[1 init:stop_dnsmasq +25] begin
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[1 init:stop_dnsmasq +25] end
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lan_ifname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ifname
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "br0"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: lan_ipaddr
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ipaddr
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "192.168.1.1"
+nvram_get_buf: computer_name
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 13 computer_name
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: productid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 productid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "RT-N53"
+nvram_get_buf: odmpid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 6 odmpid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: lan_domain
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_domain
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+nvram_get_buf: lan_hostname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/lan_hostname! Set default value to ""
+nvram_get_buf: ipv6_service
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 ipv6_service
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "disabled"
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+start_lan_port(0) 1
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lanports
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 8 lanports
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0 1 2 3"
+nvram_get_buf: lanports
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 8 lanports
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0 1 2 3"
+[   24.681570] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+nvram_get_buf: httpd_dir
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/httpd_dir! Set default value to ""
+nvram_get_int: http_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/http_enable!
+nvram_get_buf: productid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 9 productid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "RT-N53"
+nvram_get_buf: odmpid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 6 odmpid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+[   24.702365] firmadyne: sys_socket[PID: 1 (init)]: family:1, type:1, protocol:0
+nvram_get_buf: rstats_bak
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 rstats_bak
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: rstats_path = ""
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get[   24.924484] firmadyne: sys_socket[PID: 162 (httpd)]: family:2, type:2, protocol:0
+[   24.925217] firmadyne: sys_setsockopt[PID: 162 (httpd)]: fd:4, level:65535, optname:4
+[   24.925732] firmadyne: inet_bind[PID: 162 (httpd)]: proto:SOCK_STREAM, port:80
+: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: odmpid
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 6 odmpid
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = ""
+[   24.968450] firmadyne: sys_socket[PID: 163 (infosvr)]: family:2, type:1, protocol:0
+[   24.969021] firmadyne: sys_setsockopt[PID: 163 (infosvr)]: fd:4, level:65535, optname:32
+[   24.970393] firmadyne: sys_setsockopt[PID: 163 (infosvr)]: fd:4, level:65535, optname:4
+[   24.982175] firmadyne: inet_bind[PID: 163 (infosvr)]: proto:SOCK_DGRAM, port:9999
+[   25.115391] firmadyne: sys_socket[PID: 166 (lld2d)]: family:17, type:3, protocol:55688
+[   25.117172] firmadyne: sys_socket[PID: 166 (lld2d)]: family:2, type:1, protocol:0
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+start_pptpd: getpid= 1
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: pptpd_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 12 pptpd_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: lan_ifname
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 lan_ifname
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "br0"
+nvram_get_buf: lan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 lan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "vlan0 eth1 eth2"
+[   25.189639] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+TZ watchdog
+Failed to open /dev/gpio
+vlan0: cmd=14: No such device
+[   25.405513] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+eth1: cmd=14: Operation not supported
+[   25.407459] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+eth2: cmd=14: Operation not supported
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get[   25.421988] firmadyne: sys_socket[PID: 171 (ots)]: family:2, type:2, protocol:0
+[   25.422520] firmadyne: sys_setsockopt[PID: 171 (ots)]: fd:4, level:65535, optname:4
+: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+nvram_get_buf: lan_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 11 [   25.426851] firmadyne: inet_bind[PID: 171 (ots)]: proto:SOCK_STREAM, port:9998
+lan_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "vlan0 eth1 eth2"
+nvram_set_int: wlready = 1
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_int: sw_mode
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_int: Unable to read key: /firmadyne/libnvram/sw_mode!
+nvram_get_buf: Ate_power_on_off_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 23 Ate_power_on_off_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: Ate_power_on_off_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 23 Ate_power_on_off_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: Ate_power_on_off_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 23 Ate_power_on_off_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: wl_ifnames
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 10 wl_ifnames
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "eth1 eth2"
+[   25.452984] firmadyne: sys_socket[PID: 1 (init)]: family:2, type:1, protocol:0
+No switch interface!!!
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   25.498864] cfg80211: Calling CRDA to update world regulatory domain
+[   25.564571] firmadyne: sys_socket[PID: 176 (wl)]: family:2, type:1, protocol:0
+wl: wl driver adapter not found
+No wireless eth0 interface!!!: 
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   25.663098] firmadyne: sys_socket[PID: 178 (wl)]: family:2, type:1, protocol:0
+wl: wl driver adapter not found
+No wireless eth1 interface!!!: 
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: Ate_dev_status = "switch=X,2G=X,5G=X"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Ate_power_on_off_enable
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 23 Ate_power_on_off_enable
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_set: success_start_service = "1"
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+clean_mode(1) clean_time(2) threshold(0)
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+free_caches: Start syncing...
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+free_caches: Start cleaning...
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   25.709326] init (1): drop_caches: 1
+free_caches: waiting 2 second...
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+[   25.908185] firmadyne: inet_accept[PID: 162 (httpd)]:
+[   25.909636] firmadyne: sys_setsockopt[PID: 162 (httpd)]: fd:5, level:65535, optname:8
+[   25.982102] attempt to access beyond end of device
+[   25.982348] sda1: rw=0, want=2091944, limit=1983958
+[   25.982658] attempt to access beyond end of device
+[   25.982834] sda1: rw=0, want=2091928, limit=1983958
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+free_caches: Finish.
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+nvram_get_buf: commit_test
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: Unable to open key: /firmadyne/libnvram/commit_test! Set default value to ""
+[1 init:init_main +28] main loop signal/state=14
+nvram_get_buf: debug_cprintf_file
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_lock: Unable to get semaphore!
+nvram_get_buf: 
+
+[NVRAM] 18 debug_cprintf_file
+
+sem_get: Unable to get semaphore key! Utilize altenative key.. by SR
+sem_unlock: Unable to get semaphore!
+nvram_get_buf: = "0"
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+[   28.644637] cfg80211: Calling CRDA to update world regulatory domain
+[   29.106428] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+[   29.112704] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+[   31.788503] cfg80211: Calling CRDA to update world regulatory domain
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+[   34.132717] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+[   34.138009] firmadyne: sys_socket[PID: 154 (wanduck)]: family:2, type:1, protocol:0
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+[   34.931891] cfg80211: Exceeded CRDA call max attempts. Not calling CRDA
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+Failed to open /dev/gpio
+[   36.075063] firmadyne: inet_accept[PID: 162 (httpd)]:
+[   36.075595] firmadyne: sys_setsockopt[PID: 162 (httpd)]: fd:5, level:65535, optname:8
+[   36.096407] attempt to access beyond end of device
+[   36.096712] sda1: rw=0, want=2091928, limit=1983958

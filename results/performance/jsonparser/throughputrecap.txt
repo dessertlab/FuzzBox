@@ -1,0 +1,27 @@
+JSONPARSER - MILS_VER - 3 esperimenti
+
+	iterations is 1000
+	elapsed time is 42972
+	throughput is 23.270539
+
+	iterations is 1000
+	elapsed time is 47867
+	throughput is 22.980341
+
+	iterations is 1000
+	elapsed time is 48024
+	throughput is 22.905214
+
+JSONPARSER - QEMU_VER - 3 esperimenti
+
+	iterations is 1000
+	elapsed time is 23934
+	throughput is 45.959723
+
+	iterations is 1000
+	elapsed time is 22355
+	throughput is 49.205994
+
+	iterations is 1000
+	elapsed time is 22633
+	throughput is 48.601599

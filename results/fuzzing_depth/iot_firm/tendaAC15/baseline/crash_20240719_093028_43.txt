@@ -1,0 +1,4 @@
+Seed String: seed
+Input String: ææææææææææææææææææææææææææææÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒ
+Time Elapsed: 693.953000 seconds
+Interactions Count: 39

@@ -1,0 +1,30 @@
+TINYEXPR - MILS_VER - 3 esperimenti
+
+iterations is 1000
+elapsed time is 44949
+throughput is 24.472180
+
+iterations is 1000
+elapsed time is 74007
+throughput is 14.863459
+
+iterations is 1000
+elapsed time is 51637
+throughput is 19.365615
+
+
+TINYEXPR - QEMU_VER - 3 esperimenti
+
+iterations is 1000
+elapsed time is 27602
+throughput is 39.852185
+
+iterations is 1000
+elapsed time is 26573
+throughput is 41.395401
+
+iterations is 1000
+elapsed time is 26972
+throughput is 40.783034
+
+

@@ -1,0 +1,4 @@
+Seed String: {bbbbbbb
+Input String: {"ù\bpp
+Time Elapsed: 895.090000 seconds
+Interactions Count: 53100

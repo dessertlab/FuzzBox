@@ -1,0 +1,4 @@
+Seed String: {bbbbbbb
+Input String: {"ábi\b¡
+Time Elapsed: 921.426000 seconds
+Interactions Count: 71173

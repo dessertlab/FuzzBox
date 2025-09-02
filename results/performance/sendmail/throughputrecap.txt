@@ -1,0 +1,31 @@
+SMTP - MILS_VER - 3 esperimenti
+
+iterations is 1000
+elapsed time is 44949
+throughput is 24.472180
+
+iterations is 1000
+elapsed time is 46170
+throughput is 23.824995
+
+iterations is 1000
+elapsed time is 42859
+throughput is 25.665554
+
+
+SMTP - QEMU_VER - 3 esperimenti
+
+iterations is 1000
+elapsed time is 21488
+throughput is 51.191363
+
+iterations is 1000
+elapsed time is 19241
+throughput is 57.169586
+
+iterations is 1000
+elapsed time is 21607
+throughput is 50.909428
+
+
+

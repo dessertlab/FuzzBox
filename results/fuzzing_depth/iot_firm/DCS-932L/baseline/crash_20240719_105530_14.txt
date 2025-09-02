@@ -1,0 +1,5 @@
+Seed String: ssid
+
+Input String: sQ‘Q‘s
+Time Elapsed: 305.980000 seconds
+Interactions Count: 13

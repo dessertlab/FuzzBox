@@ -1,0 +1,5 @@
+Seed String: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Input String: ¢aaaaažAaçžžaaaažaaaaAaaáaaaaaa 
+Time Elapsed: 501.169000 seconds
+Interactions Count: 114

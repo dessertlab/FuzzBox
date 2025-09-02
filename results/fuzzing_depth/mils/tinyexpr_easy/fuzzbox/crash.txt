@@ -1,0 +1,4 @@
+Seed String: help(
+Input String: help
+Time Elapsed: 1001.511000 seconds
+Interactions Count: 5028

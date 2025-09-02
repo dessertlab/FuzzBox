@@ -1,0 +1,4 @@
+Seed String: ABCDEFG
+Input String: (B((,\Û(BÛ(B×œ×Bd
+Time Elapsed: 85.227000 seconds
+Interactions Count: 2817

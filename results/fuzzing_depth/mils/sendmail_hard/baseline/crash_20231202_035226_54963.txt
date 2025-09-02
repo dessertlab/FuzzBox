@@ -1,0 +1,4 @@
+Seed String: AAAAA
+Input String: X@g>A
+Time Elapsed: 461.455000 seconds
+Interactions Count: 54963
